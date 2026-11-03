@@ -102,27 +102,21 @@
 <br/>
 
 ## 📌 Featured Projects
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>🍽️ SWADISHH</h3>
-<p>Multi-Cuisine Restaurant & Online Food Ordering Platform</p>
+
+<div align="center">
+
 <a href="https://swadishh-ecru.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-Visit_Website-f04324?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🍽️_SWADISHH-Live_Demo-f04324?style=for-the-badge" />
 </a>
+
 <a href="https://github.com/Anuj-Yadav-07/Swadishh">
-<img src="https://img.shields.io/badge/SOURCE_CODE-GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github" />
 </a>
-</td>
-<td width="50%" align="center">
-<h3>🍕 PIZZA VIRUS</h3>
-<p>Pizza Website & Online Experience</p>
-<a href="https://pizza-virus.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-Visit_Website-orange?style=for-the-badge" />
-</a>
-</td>
-</tr>
-</table>
+
+<p><b>Premium Multi-Cuisine Restaurant & Online Food Ordering Platform</b></p>
+
+</div>
+
 
 ## 🎯 Current Goals
 
