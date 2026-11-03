@@ -103,11 +103,12 @@
 
 ## 📌 Featured Projects
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Anuj-Yadav-07/Swadishh">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anuj-Yadav-07&repo=Swadishh&theme=tokyonight" alt="Swadishh Project" />
+  </a>
+</p>
 
-<a href="https://github.com/Anuj-Yadav-07/Anuj">
-  <strong>🚀 Anuj Project</strong>
-</a>
 
 &nbsp; • &nbsp;
 
