@@ -103,21 +103,19 @@
 
 ## 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Anuj-Yadav-07/Swadishh">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anuj-Yadav-07&repo=Swadishh&theme=tokyonight" alt="Swadishh Project" />
-  </a>
-</p>
+<div align="center">
 
-
-&nbsp; • &nbsp;
-
-<a href="https://github.com/Anuj-Yadav-07/Tuf">
-  <strong>💻 Tuf Project</strong>
+<a href="https://swadishh-ecru.vercel.app/">
+  <img src="https://img.shields.io/badge/🍽️_SWADISHH-Live_Demo-f04324?style=for-the-badge" />
 </a>
 
-</div>
+<a href="https://github.com/Anuj-Yadav-07/Swadishh">
+  <img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github" />
+</a>
 
+<p><b>Premium Multi-Cuisine Restaurant & Online Food Ordering Platform</b></p>
+
+</div>
 
 ## 🎯 Current Goals
 
